@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 54d5408f275fd0d4c849eb4deebbfb23
+timeCreated: 1477644882
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Flipper GDI
+    100004: Flipper GDI001
+    100006: Flipper NOD
+    100008: Flipperkast
+    100010: Gates top
+    100012: GDI logo
+    100014: GDI logo001
+    100016: Nod logo
+    100018: Nod Logo Base
+    100020: Obstacle lower left
+    100022: obstacle lower right
+    100024: Obstacle top left
+    100026: Obstacle top right
+    100028: Obstacle wall left
+    100030: Obstacle wall left middel
+    100032: Pillbox sturcture
+    100034: Pillbox sturcture001
+    100036: Pillbox sturcture002
+    100038: Playfield
+    100040: Slingshot lower left
+    100042: Slingshot lower right
+    100044: Slingshot top right
+    100046: Sphere001
+    100048: Tank Barrel
+    100050: Tank hulll
+    100052: Tank Tracks
+    100054: Tank Turret
+    400000: //RootNode
+    400002: Flipper GDI
+    400004: Flipper GDI001
+    400006: Flipper NOD
+    400008: Flipperkast
+    400010: Gates top
+    400012: GDI logo
+    400014: GDI logo001
+    400016: Nod logo
+    400018: Nod Logo Base
+    400020: Obstacle lower left
+    400022: obstacle lower right
+    400024: Obstacle top left
+    400026: Obstacle top right
+    400028: Obstacle wall left
+    400030: Obstacle wall left middel
+    400032: Pillbox sturcture
+    400034: Pillbox sturcture001
+    400036: Pillbox sturcture002
+    400038: Playfield
+    400040: Slingshot lower left
+    400042: Slingshot lower right
+    400044: Slingshot top right
+    400046: Sphere001
+    400048: Tank Barrel
+    400050: Tank hulll
+    400052: Tank Tracks
+    400054: Tank Turret
+    2300000: Flipper GDI
+    2300002: Flipper GDI001
+    2300004: Flipper NOD
+    2300006: Flipperkast
+    2300008: Gates top
+    2300010: GDI logo
+    2300012: GDI logo001
+    2300014: Nod logo
+    2300016: Nod Logo Base
+    2300018: Obstacle lower left
+    2300020: obstacle lower right
+    2300022: Obstacle top left
+    2300024: Obstacle top right
+    2300026: Obstacle wall left
+    2300028: Obstacle wall left middel
+    2300030: Pillbox sturcture
+    2300032: Pillbox sturcture001
+    2300034: Pillbox sturcture002
+    2300036: Playfield
+    2300038: Slingshot lower left
+    2300040: Slingshot lower right
+    2300042: Slingshot top right
+    2300044: Sphere001
+    2300046: Tank Barrel
+    2300048: Tank hulll
+    2300050: Tank Tracks
+    2300052: Tank Turret
+    3300000: Flipper GDI
+    3300002: Flipper GDI001
+    3300004: Flipper NOD
+    3300006: Flipperkast
+    3300008: Gates top
+    3300010: GDI logo
+    3300012: GDI logo001
+    3300014: Nod logo
+    3300016: Nod Logo Base
+    3300018: Obstacle lower left
+    3300020: obstacle lower right
+    3300022: Obstacle top left
+    3300024: Obstacle top right
+    3300026: Obstacle wall left
+    3300028: Obstacle wall left middel
+    3300030: Pillbox sturcture
+    3300032: Pillbox sturcture001
+    3300034: Pillbox sturcture002
+    3300036: Playfield
+    3300038: Slingshot lower left
+    3300040: Slingshot lower right
+    3300042: Slingshot top right
+    3300044: Sphere001
+    3300046: Tank Barrel
+    3300048: Tank hulll
+    3300050: Tank Tracks
+    3300052: Tank Turret
+    4300000: Flipperkast
+    4300002: Tank hulll
+    4300004: Tank Turret
+    4300006: Tank Barrel
+    4300008: Tank Tracks
+    4300010: Pillbox sturcture
+    4300012: Flipper NOD
+    4300014: Nod Logo Base
+    4300016: Nod logo
+    4300018: Flipper GDI
+    4300020: GDI logo
+    4300022: Slingshot lower left
+    4300024: Gates top
+    4300026: Obstacle top left
+    4300028: Slingshot top right
+    4300030: Obstacle top right
+    4300032: Obstacle wall left
+    4300034: Obstacle lower left
+    4300036: obstacle lower right
+    4300038: Obstacle wall left middel
+    4300040: Playfield
+    4300042: Flipper GDI001
+    4300044: GDI logo001
+    4300046: Pillbox sturcture001
+    4300048: Pillbox sturcture002
+    4300050: Sphere001
+    4300052: Slingshot lower right
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
