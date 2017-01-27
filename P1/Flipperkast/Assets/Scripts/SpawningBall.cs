@@ -5,13 +5,17 @@ public class SpawningBall : MonoBehaviour {
 
     public GameObject ball;
     public Vector3 position;
+    public float power;
     
 
 	// Use this for initialization
 	void Start () {
 
-        Instantiate(ball, position, Quaternion.identity);
+
+        position = transform.position;
         
+
+       
 	
 	}
 	
@@ -19,5 +23,11 @@ public class SpawningBall : MonoBehaviour {
 	void Update ()
     {
         
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            Instantiate(ball, position, Quaternion.identity);
+            ball.GetComponent<Rigidbody>().velocity = transform.up * power;
+        }
     }
 }
