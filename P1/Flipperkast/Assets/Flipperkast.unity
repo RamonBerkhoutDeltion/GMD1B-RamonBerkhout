@@ -1114,6 +1114,8 @@ GameObject:
   - component: {fileID: 486966081}
   - component: {fileID: 486966083}
   - component: {fileID: 486966082}
+  - component: {fileID: 486966084}
+  - component: {fileID: 486966085}
   m_Layer: 0
   m_Name: Tank hulll (1)
   m_TagString: Untagged
@@ -1173,6 +1175,34 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 486966080}
+  m_Mesh: {fileID: 4300002, guid: 1715f070f36fdbe4e8e4934b1cfab391, type: 3}
+--- !u!114 &486966084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 486966080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8091e7eff273670498c536562fe03996, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ball: {fileID: 0}
+  power: 1000
+  forceRadius: 1
+--- !u!64 &486966085
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 486966080}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 1
+  m_InflateMesh: 0
+  m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300002, guid: 1715f070f36fdbe4e8e4934b1cfab391, type: 3}
 --- !u!1 &572070040
 GameObject:
@@ -1844,7 +1874,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -123, y: 158}
+  m_AnchoredPosition: {x: -786, y: 441}
   m_SizeDelta: {x: 251, y: 134}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &894829927
@@ -2682,6 +2712,8 @@ GameObject:
   - component: {fileID: 1388249167}
   - component: {fileID: 1388249169}
   - component: {fileID: 1388249168}
+  - component: {fileID: 1388249170}
+  - component: {fileID: 1388249171}
   m_Layer: 0
   m_Name: Tank hulll (2)
   m_TagString: Untagged
@@ -2741,6 +2773,34 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1388249166}
+  m_Mesh: {fileID: 4300002, guid: 1715f070f36fdbe4e8e4934b1cfab391, type: 3}
+--- !u!114 &1388249170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1388249166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8091e7eff273670498c536562fe03996, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ball: {fileID: 0}
+  power: 1000
+  forceRadius: 1
+--- !u!64 &1388249171
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1388249166}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 1
+  m_InflateMesh: 0
+  m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300002, guid: 1715f070f36fdbe4e8e4934b1cfab391, type: 3}
 --- !u!1 &1403851557
 GameObject:
